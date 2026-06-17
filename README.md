@@ -1,3 +1,11 @@
+## Alunos:
+- Eric Gabriel Caetano
+- Felipe da Silva Chawischi
+- Gabriel Felipe Alves Bandoch
+- João Guilherme Tamanini Dalmarco
+  
+---
+
 # TravelX Landing Page
 
 Uma landing page responsiva e moderna desenvolvida para a agência de viagens "TravelX", projetada para converter visitantes em clientes que buscam roteiros personalizados.
@@ -22,19 +30,15 @@ Este projeto foi construído utilizando a metodologia Spec-Driven Development. O
 
 Siga os passos abaixo para testar o projeto no seu ambiente local:
 
-1. Acesse o diretório do projeto:
-   ```bash
-   cd travelx
-   ```
-2. Instale as dependências:
+1. Instale as dependências:
    ```bash
    npm install
    ```
-3. Inicie o servidor de desenvolvimento:
+2. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
-4. Abra o navegador no endereço indicado no terminal (normalmente `http://localhost:5173`).
+3. Abra o navegador no endereço indicado no terminal (normalmente `http://localhost:5173`).
 
 ---
 Desenvolvido com foco em qualidade, código limpo e experiência de usuário premium.
